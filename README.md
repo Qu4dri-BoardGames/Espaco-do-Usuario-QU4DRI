@@ -1,6 +1,6 @@
 # Espaco-do-Usuario-QU4DRI
 
-Por favor, use este repositório para relatar bugs e solicitações de recursos para as aplicações da plataforma QU4DRI, e isso inclui o site, o Simulador de Board games e o servidor multiplayer.
+Por favor, use este repositório para aprender mais sobre a plataforma, relatar bugs e solicitações de recursos para as aplicações da plataforma QU4DRI, e isso inclui o site, o Simulador de Board games e o servidor multiplayer.
 
 ## Conduta
 
